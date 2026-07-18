@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrng4igZ/giphy.gif" width="30px"> Hey there, I'm Chaitanya!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrng4igZ/giphy.gif" width="30px"> Hey there, I'm Chaitanya Deepthi!
 
 <div align="center">
 
@@ -246,7 +246,7 @@ Always open to **feedback** and **collaboration**! 🚀
 
 <div align="center">
 
-*Last updated: 2026 | Made with ❤️ by Chaitanya*
+*Last updated: 2026 | Made with ❤️ by Chaitanya Deepthi*
 
 ![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square)
 ![Open Source](https://img.shields.io/badge/Open%20Source-%F7931E?style=flat-square&logo=open-source-initiative&logoColor=white)
