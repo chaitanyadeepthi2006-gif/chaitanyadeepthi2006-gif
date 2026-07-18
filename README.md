@@ -113,15 +113,22 @@ Tech: Python | Data Structures
 
 ---
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0dYc/giphy.gif" width="30px"> GitHub Stats
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0dYc/giphy.gif" width="30px"> 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaitanyadeepthi2006-gif&show_icons=true&theme=radical&hide_border=true)
+### **GitHub Statistics**
+![GitHub Stats](https://img.shields.io/badge/Total%20Contributions-32-brightgreen?style=flat-square)
+![Current Streak](https://img.shields.io/badge/Current%20Streak-1%20Day-red?style=flat-square)
+![Longest Streak](https://img.shields.io/badge/Longest%20Streak-2%20Days-orange?style=flat-square)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyadeepthi2006-gif&layout=compact&theme=radical&hide_border=true)
+### **Top Languages Used**
+![Python](https://img.shields.io/badge/Python-35%25-blue?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-25%25-yellow?style=flat-square&logo=javascript)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-40%25-red?style=flat-square)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chaitanyadeepthi2006-gif&theme=radical&hide_border=true)
+### **Visit My GitHub**
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github)](https://github.com/chaitanyadeepthi2006-gif)
 
 </div>
 
@@ -216,16 +223,6 @@ I'm always open to learning opportunities, collaborations, and tech discussions!
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/)
 [![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-FF6B6B?style=flat-square)](https://hacktoberfest.com/)
 [![FirstContributions](https://img.shields.io/badge/FirstContributions-5B2C6F?style=flat-square)](https://firstcontributions.github.io/)
-
-</div>
-
----
-
-## 📊 Recent Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chaitanyadeepthi2006-gif&theme=radical&hide_border=true)
 
 </div>
 
