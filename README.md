@@ -1,4 +1,4 @@
-# 🌈 <img src="https://media.giphy.com/media/hvRJCLFzcasrng4igZ/giphy.gif" width="40px"> Hey there, I'm Chaitanya Deepthi! 🌈
+# 🌈<img src="https://media.giphy.com/media/hvRJCLFzcasrng4igZ/giphy.gif" width="40px" > Hey there, I'm Chaitanya Deepthi!  🌈
 
 <div align="center">
 
