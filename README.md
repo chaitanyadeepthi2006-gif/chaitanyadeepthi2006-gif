@@ -18,7 +18,7 @@
 
 ## 🎨 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280px" style="border-radius: 20px;"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" style="border-radius: 20px;"/>
 
 I'm a passionate college student who loves **solving complex problems** through code and exploring cutting-edge technologies in web and full-stack development. I believe in **continuous learning**, **building practical projects**, and **collaborating** with like-minded developers.
 
