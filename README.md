@@ -1,4 +1,4 @@
-# 🌈 Hey there, I'm Chaitanya Deepthi!  🌈
+# 🌈 Hey there,<br/> I'm Chaitanya Deepthi!  🌈
 
 <div align="center">
 
